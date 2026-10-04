@@ -192,7 +192,7 @@ const redesSociales = {
             "imagenes/instagram.png",
 
         portada:
-            "imagenes/instagram-portada.png",
+            "imagenes/instagram.portada.png",
 
         descripcion:
             "Instagram es una plataforma social enfocada principalmente en fotografías, videos, historias y reels, utilizada por personas, creadores y negocios.",
